@@ -1,0 +1,43 @@
+body{
+    padding: auto;
+    margin: auto;
+    background-color:orange;
+}
+
+.contain{
+    margin: 50px;
+    text-align: center;
+    border-radius: 50px;
+    height: 90vh;
+    background-color:rgb(255, 223, 164);
+}
+
+#btn{
+    margin-top:50px;
+    background-color: rgb(123, 255, 123);
+    color: black;
+    font-size: 35px;
+    border-radius: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5px;
+}
+
+#bb{
+    color:#a4874b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.form{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 500px;
+    gap: 5px;
+}
